@@ -82,8 +82,9 @@ namespace FlowerSell.Controllers
             switch (result)
             {
                 case SignInStatus.Success:
-                    return RedirectToAction("RedirectAdminHome", "Users");
-                   // return RedirectToLocal(returnUrl);
+
+                   return RedirectToAction("Index", "Users");
+                   //return RedirectToLocal(returnUrl);
                 case SignInStatus.LockedOut:
                     return View("Lockout");
                 case SignInStatus.RequiresVerification:
