@@ -29,5 +29,7 @@ namespace FlowerSell.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<FlowerSell.Models.Inventory1> Inventory1 { get; set; }
     }
 }

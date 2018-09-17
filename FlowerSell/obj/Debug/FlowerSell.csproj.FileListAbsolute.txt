@@ -1,5 +1,3 @@
-C:\Users\chnandit\source\repos\FlowerSell\FlowerSell\obj\Debug\FlowerSell.csprojAssemblyReference.cache
-C:\Users\chnandit\source\repos\FlowerSell\FlowerSell\obj\Debug\FlowerSell.csproj.CoreCompileInputs.cache
 C:\Users\chnandit\source\repos\FlowerSell\FlowerSell\bin\ApplicationInsights.config
 C:\Users\chnandit\source\repos\FlowerSell\FlowerSell\bin\FlowerSell.dll.config
 C:\Users\chnandit\source\repos\FlowerSell\FlowerSell\bin\FlowerSell.dll
@@ -115,6 +113,10 @@ C:\Users\chnandit\source\repos\FlowerSell\FlowerSell\bin\Microsoft.AI.Dependency
 C:\Users\chnandit\source\repos\FlowerSell\FlowerSell\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\chnandit\source\repos\FlowerSell\FlowerSell\bin\Microsoft.AI.Web.xml
 C:\Users\chnandit\source\repos\FlowerSell\FlowerSell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chnandit\source\repos\FlowerSell\FlowerSell\obj\Debug\FlowerSell.Migrations.InitialCreate.resources
+C:\Users\chnandit\source\repos\FlowerSell\FlowerSell\obj\Debug\FlowerSell.csproj.GenerateResource.cache
+C:\Users\chnandit\source\repos\FlowerSell\FlowerSell\obj\Debug\FlowerSell.csproj.CoreCompileInputs.cache
 C:\Users\chnandit\source\repos\FlowerSell\FlowerSell\obj\Debug\FlowerSell.csproj.CopyComplete
 C:\Users\chnandit\source\repos\FlowerSell\FlowerSell\obj\Debug\FlowerSell.dll
 C:\Users\chnandit\source\repos\FlowerSell\FlowerSell\obj\Debug\FlowerSell.pdb
+C:\Users\chnandit\source\repos\FlowerSell\FlowerSell\obj\Debug\FlowerSell.csprojAssemblyReference.cache

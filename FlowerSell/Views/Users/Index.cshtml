@@ -4,10 +4,10 @@
 
 
 
-@if (ViewBag.displayMenu == "No")
+@if (ViewBag.displayMenu == "Yes")
 {
     <h1>Welcome Admin. add your items.</h1>
-   
+    <li>@Html.ActionLink("Click to add","Index","Inventory1")</li>
 }
 else
 {
