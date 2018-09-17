@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerSell", "FlowerSell\FlowerSell.csproj", "{BC9E86F8-F2BB-4F2A-85E1-D569F75402D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC9E86F8-F2BB-4F2A-85E1-D569F75402D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9E86F8-F2BB-4F2A-85E1-D569F75402D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9E86F8-F2BB-4F2A-85E1-D569F75402D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9E86F8-F2BB-4F2A-85E1-D569F75402D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C556738C-74E9-4749-B1C8-B85C87456A87}
+	EndGlobalSection
+EndGlobal
